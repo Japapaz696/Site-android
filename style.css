@@ -96,3 +96,9 @@ footer{
     padding: 0px;
     margin: 14px;
 }
+.video{
+    height: auto;
+margin-top: -50px;
+width: 100%;
+z-index: -1;
+}
